@@ -1,0 +1,203 @@
+# title 1
+
+# title 1
+
+## title 2
+
+## title 2
+
+### title 3 
+
+### title 3
+这是正文
+zhwengwen
+陈肖艾  
+
+陈肖艾
+
+表格
+
+|列1|列2|列3|
+|-|-|-|
+|行1|行1|行1|
+|行2|行2|行2|
+
+
+|星期|星期一|星期二|星期三|
+|-|-|-|-|
+|小王||||
+|小李||||
+
+
+无序列表
+
+* 无序列表1
+* 无序列表2
+  * 1
+  * 2
+
+无序列表
+* 无序列表1
+* 无序列表2
+  * 1111
+  * 22222
+  * 333
+
+
+
+有序列表
+
+1. a
+2. b
+3. c
+    1. aa
+    2. bb
+        1. cc
+
+有序列表
+1. 啊
+2. 吧
+3. 从
+  1. 冲冲冲、
+    2. 
+        3. 发发发
+
+
+有序列表
+1. go 
+    i. come
+    ii. get
+2. went
+
+
+
+image
+
+![](2022-01-12-15-56-19.png)
+
+![](2022-01-12-15-57-00.png)
+*高尔夫*
+
+![](2022-01-12-15-56-19.png)
+
+
+引用
+> comment here
+
+文字格式
+
+这里是*斜体*
+*xieti*
+**cuti**
+***xietihecuti***
+<u>下划线</u>
+:smile:
+
+行内数学公式
+$E=mc^2$
+
+H2O  H~2~O
+X^2^
+==高亮文字==
+
+
+
+这里是**粗体**
+
+这里是***斜体&粗体***
+
+怎么打公式？
+
+$$
+
+$$
+
+## 链接
+[lianjie](https://image.baidu.com/search/index?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&dyTabStr=MCw0LDIsMSw2LDUsMyw3LDgsOQ%3D%3D&word=%E5%B7%A6%E6%96%9C%E5%87%BB%E7%90%83)
+
+# zenemcharulianjie
+
+插入[b站](https://www.bilibili.com/"一个学习网站")
+[b站][id]
+[id]:bilibili.com"一个学习网站"
+
+请参考[title 1](#title-1)
+
+
+
+`变量名`内容
+````HTML
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>This is title.</title>
+</head>
+This is body.
+<body>
+</body>
+````
+
+
+
+插入`变量名`
+````HTML
+kkkk
+kkkkkk
+````
+
+明天计划：
+- [x]chifang
+- [ ]shuijiao
+- [ ]dadoudou
+
+
+代码块
+```c
+```
+
+```html
+```
+
+
+
+数学公式
+$$
+使用latex
+$$
+
+脚注：
+一键三联[^三连]
+[^三连]:点赞、投币、收藏
+
+
+
+一键三联[^三连]
+
+
+
+横线
+---
+
+
+脚注：
+一键三连[^三连]
+
+
+`mm`
+
+~~mm~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
